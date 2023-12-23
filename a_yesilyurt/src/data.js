@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "ReactJS, TailwindCSS",
       description:
         "My portfolio website built using ReactJS and Tailwind CSS.",
-      image: "./sbux_fall1.png",
+      image: "./img1.jpg",
       // link: "https://reactbootcamp.com",
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
       subtitle: "Python, Streamlit, JSON",
       description:
         "A cat facts website built using the Streamlit Library and Python.",
-        image: "./sbux_fall2.png",
+      image: "./img2.jpg",
       // link: "https://reedbarger.com",
     },
     {
@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "ReactJS",
       description:
         "A budgeting app built with ReactJS and CSS.",
-        image: "./sbux_fall3.png",
+      image: "./img3.jpg",
       // link: "https://jsbootcamp.com",
     },
   ];
