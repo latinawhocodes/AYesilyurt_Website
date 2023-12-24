@@ -1,3 +1,16 @@
+export const skills = [
+  "JavaScript",
+  "React",
+  "Next.js",
+  "Node",
+  "GraphQL",
+  "TailwindCSS",
+  "TypeScript",
+  "Java",
+  "SQL",
+  "Python"
+];
+
 export const projects = [
     {
       title: "React Portfolio Project",
